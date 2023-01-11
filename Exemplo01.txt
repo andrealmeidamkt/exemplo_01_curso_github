@@ -1,3 +1,7 @@
 Inicio de um documento
 Alteração
 ALTERAÇAO 02
+
+public function alterar(){
+
+}
