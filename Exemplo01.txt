@@ -4,4 +4,7 @@ ALTERAÇAO 02
 
 public function alterar(){
 
+	int x;
+	float y;
+
 }
